@@ -1,0 +1,14 @@
+{
+    "name" : "Plugin Name",
+    "slug" : "plugin-name",
+    "author" : "<a href='https://example.com/'>Author</a>",
+    "version" : "1.0.6",
+    "requires" : "3.0",
+    "tested" : "5.8",
+    "requires_php" : "5.3",
+    "sections" : {
+        "description" : "Plugin description",
+        "installation" : "Plugin installation guide",
+        "changelog" : "<h4>1.0.6 –  29 october 2024</h4><ul><li>Bug fixes.</li></ul>"
+    }
+}
